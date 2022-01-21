@@ -9,7 +9,7 @@ f.text = "Hello, world"
 ```
 2. Run the testcase
 3. Tests Explorer in Katalon Studio GUI does not show the added file automatically
-4. Click the page of Tests Explorer, right click to show the drop down menu, select "Reflesh"
+4. Click the pane of Tests Explorer, right click to show the drop down menu, select "Reflesh"
 5. **After "Refresh", still the added file is not shown**.
 ![Reflesh](docs/images/Refresh_does_not_show_the_file.png)
 6. Close the project, and reopen it. Then the added file is finally recognized and showed.
