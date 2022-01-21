@@ -17,7 +17,7 @@ f.text = "Hello, world"
 
 I have been aware of this bug for 4 years. This is too trivial to report. I hoped, it would be fixed by Katalon team without any bug report from users. But this problem survived long time. Finally Jan 2022 I decided to report this as a bug. 
 
-Katalon Studio does not recognize externally added files automatically at all. It is a shame. You know, VSCODE does, IntelliJ IDEA does.
+Katalon Studio does not recognize externally added files automatically at all. It is a shame. This makes your project unprofessional. You know, VSCODE does, IntelliJ IDEA does.
 
 ## Environment
 
